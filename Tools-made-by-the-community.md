@@ -35,14 +35,10 @@ The following services provide shortlinks to hicetnunc creation pages:
 * [hic.link](https://hic.link) by [1x1](https://twitter.com/1x1_NFT) 
 * [hen.link](https://hen.link/) by [playnft](https://twitter.com/playnft)
 
-*** 
-
-
 ## Gallery Tools
 
 * [A gallery for your HEN collection, just connect your wallet.](https://hen-gallery.herokuapp.com/) by @PureSpider
 * [Digital Frame Maker](https://primitive-objkts.gimmix.org/) by [shahruz](https://github.com/shahruz). [[src]](https://github.com/gimmix-org/primitive-objkts) [[github]](https://github.com/gimmix-org/primitive-objkts)
-
 
 ## Misc
 * [Naive status page for hicetnunc.xyz](https://hicetnuncstatus.herokuapp.com/) by @fraguada @LeithBA [github](https://github.com/fraguada/hicetnuncstatus)
