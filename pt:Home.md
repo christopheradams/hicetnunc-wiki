@@ -23,7 +23,7 @@
 * [Contribuindo (Guia do Iniciante)](https://github.com/hicetnunc2000/hicetnunc/wiki/PT:Contributing-Beginners-Guide)
 * [Cuidado com os Copyminters!](https://github.com/hicetnunc2000/hicetnunc/wiki/PT:Beware-copyminters!)
 
-Misc
+**Misc**
 * [Código de conduta dos criadores de NFT](https://github.com/hicetnunc2000/hicetnunc/wiki/PT:NFT-Creators-Code-of-Conduct)
 * [Ferramentas feitas pela comunidade](https://github.com/hicetnunc2000/hicetnunc/wiki/PT:Tools-made-by-the-community)
 * [Ensaios e postagens de blogs](https://github.com/hicetnunc2000/hicetnunc/wiki/PT:Essays-blogs)
