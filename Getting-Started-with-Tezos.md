@@ -13,7 +13,7 @@ Minting on hicetnunc only costs ~0.08 tezos. You can buy some on an exchange sit
 If you are an artist that is just starting out on hic and you don't have any tezos yet, you can request to take some tezos from the Hicetnunc tezos fountain. Please follow the instructions below:
 
 1. Post the fountain emoji on one of your socials so we can verify you are the artist
-2. Message us in the #tezos-fountain channel on the discord with your tezos wallet address and a link to your social media post. [Discord](https://discord.gg/pkTGvsN4)
+2. Message us in the #tezos-fountain channel on the discord with your tezos wallet address linked to tzkt.io (tzkt.io/`wallet-id` and a link to your social media post. [Discord](https://discord.gg/pkTGvsN4)
 3. We will send 0.33 TEZ to mint and swap your first OBJKTs. Please allow at least 24 hours for us to get back to you.
 
 You can check on your application by going back to your post and seeing if we added a "100%" emoji on it. If we put an "X" emoji, that means you either already have tezos in your wallet, you didn't send the link with fountain emoji on your social media, or we couldn't trust your social media because the account was just made. Please reapply with the correct information or with a different social media account and we will check the new application. If you see a check mark emoji, that means we have verified your application and we are in the process of sending you the tezos soon after. Thanks!
