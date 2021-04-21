@@ -16,7 +16,7 @@ If you are an artist that is just starting out on hic and you don't have any tez
 2. Message us in the #tezos-fountain channel on the discord with your tezos wallet address and a link to your social media post. [Discord](https://discord.gg/pkTGvsN4)
 3. We will send 0.33 TEZ to mint and swap your first OBJKTs. Please allow at least 24 hours for us to get back to you.
 
-You can check on your application by going back to your post and seeing if we added a "100%" emoji on it. If we put an "X" emoji, that means you either already have tezos in your wallet, you didn't send the link with fountain emoji on your social media, or we couldn't trust your social media because the account was just made. Please reapply with the correct information and we will check the new application. If you see a check mark emoji, that means we have verified your application and we are in the process of sending you the tezos soon after. Thanks!
+You can check on your application by going back to your post and seeing if we added a "100%" emoji on it. If we put an "X" emoji, that means you either already have tezos in your wallet, you didn't send the link with fountain emoji on your social media, or we couldn't trust your social media because the account was just made. Please reapply with the correct information or with a different social media account and we will check the new application. If you see a check mark emoji, that means we have verified your application and we are in the process of sending you the tezos soon after. Thanks!
 
 ## Donating to the hicetnunc fountain
 Want to donate some tezos to help support artists that are new to hicetnunc? You can send some tezos here: `tz1eggoxCes1qYRGLc3E1bg4uzuCUUuuQBb9`
