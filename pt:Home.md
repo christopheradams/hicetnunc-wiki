@@ -1,8 +1,6 @@
-# Casa
-
 ***
 
-[Início](https://github.com/hicetnunc2000/hicetnunc/wiki/PT:Home)
+* [Início](https://github.com/hicetnunc2000/hicetnunc/wiki/PT:Home)
 
 **Guia**
 * [Introdução](https://github.com/hicetnunc2000/hicetnunc/wiki/PT:Introduction)
