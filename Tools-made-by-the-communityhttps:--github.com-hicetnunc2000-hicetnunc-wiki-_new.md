@@ -23,17 +23,21 @@
 * [Hicetnunc IFPS Pinning](https://gist.github.com/mattdesl/47f4ea12ea131eed8401bdacf95a1f47) by Matt DesLauriers
 * [Running IFPS node to pin content](https://twitter.com/antic/status/1374417104489697283?s=20) by Adam Eivy
 
-## Creator/Collector Tools
+## Minting Tools
 * [Music Album HTML Template](https://www.hicetnunc.xyz/objkt/25359) by @cryptemes [[github]](https://github.com/EMES77/HEN_MusicAlbum_Template/releases/download/v2.0/CRYPTEMES_HEN_MusicAlbum_Template.zip)
-* [Telegram Notifier Bot](https://tzsnt.fr/): Get a telegram message every time someone buys something.
+
+## Sharing Tools
 * Share your OBJKT link with image preview on social media, just replace your OBJKT ID by @PureSpider
 
 ```http://objkt.link/OBJKT-ID```
 
-## Shortlink Services
+### Shortlink Services
 The following services provide shortlinks to hicetnunc creation pages:
 * [hic.link](https://hic.link) by [1x1](https://twitter.com/1x1_NFT) 
 * [hen.link](https://hen.link/) by [playnft](https://twitter.com/playnft)
+
+### Selling Tools
+* [Telegram Notifier Bot](https://tzsnt.fr/): Get a telegram message every time someone buys something.
 
 ## Gallery Tools
 
