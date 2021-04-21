@@ -25,20 +25,18 @@
 
 ## Creator Tools
 * [Music Album HTML Template](https://www.hicetnunc.xyz/objkt/25359) by @cryptemes [[github]](https://github.com/EMES77/HEN_MusicAlbum_Template/releases/download/v2.0/CRYPTEMES_HEN_MusicAlbum_Template.zip)
+* [Telegram Notifier Bot](https://tzsnt.fr/): Get a telegram message every time someone buys something.
+* Share your OBJKT link with image preview on social media, just replace your OBJKT ID by @PureSpider
+
+```http://objkt.link/OBJKT-ID```
 
 ### Shortlink Services
 The following services provide shortlinks to hicetnunc creation pages:
 * [hic.link](https://hic.link) by [1x1](https://twitter.com/1x1_NFT) 
 * [hen.link](https://hen.link/) by [playnft](https://twitter.com/playnft)
 
-Share your OBJKT link with image preview on social media, just replace your OBJKT ID by @PureSpider
-
-```http://objkt.link/OBJKT-ID```
 *** 
 
-***
-
-* [Telegram Notifier Bot](https://tzsnt.fr/): Get a telegram message every time someone buys something.
 
 ## Gallery Tools
 
