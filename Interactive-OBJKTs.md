@@ -33,6 +33,17 @@ The cover image can be a JPEG, PNG, or GIF.
 
 You will need to include all libraries, scripts, styles, and other assets referenced in your code inside your project folder. References to most external resources will  be blocked. While there are some exceptions to this, it's generally best practice to bundle everything and avoid external dependencies. See allowed domains below:
 
+## Features
+
+The following features will be enabled on the iframe displaying your work on [hicetnunc.xyz](https://www.hicetnunc.xyz):
+```
+accelerometer
+camera
+gyroscope
+microphone
+xr-spatial-tracking
+```
+
 ## Allowed Domains
 Interactive OBJKTS can access the following external domains:
 
