@@ -17,7 +17,7 @@ Whether you're starting fresh or have an existing artwork, there are some import
 
 ## Folder Structure
 
-Put all your project files into a single folder if they are not already in one. The main file in your project needs to be called `index.html`.
+Put all your project files into a single folder if they are not already in one. The main file in your project needs to be called `index.html`. Subfolders are ok.
 
 ## Cover Image
 
