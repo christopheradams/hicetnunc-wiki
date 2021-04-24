@@ -1,6 +1,6 @@
 ## Discovery Tools
 
-* [OBJKT transaction history](https://www.hicetnunc.xyz/objkt/25459) by Javier Graciá Carpio
+* [OBJKT transaction history](https://hicetnunc.xyz/objkt/46415) by Javier Graciá Carpio
 
 * [Discovery Tool](https://projects.stroep.nl/hicetnunc/#discover) by Mark Knol
 
