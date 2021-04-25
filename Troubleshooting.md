@@ -27,3 +27,5 @@ It's worth noting that all transaction attempts, including failed ones, do incur
 
 The usual cause for this is trying to swap more items that were minted. If you minted 10 items and try to swap 20, you'll receive this error.
 
+### My transaction is being "backtracked" - whats going on?
+You're getting backtracked. Raise the storage fee to max and try again. With the current load it is taking 4-5 tries.
