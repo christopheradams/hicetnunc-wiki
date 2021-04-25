@@ -4,6 +4,9 @@ This is currently being developed. We are not taking any pull requests at the mo
 ## How do I get a notification when something sells?
 You can use the telegram bot that we have listed in the [Tools](https://github.com/hicetnunc2000/hicetnunc/wiki/Tools-made-by-the-community) section
 
+## How do I search for artists or filter by tags?
+This tool isn't implemented yet but the community has made some discovery tools that you can find in the [Tools](https://github.com/hicetnunc2000/hicetnunc/wiki/Tools-made-by-the-community) section
+
 ## I have an idea for a new feature or an improvement! Where can I submit it?
 You can submit your feature [here](https://hicetnunc.featureupvote.com/) and the community will be able to vote on it. Please only submit your feature if it is not already on the list. The official way to submit features to the developers is on the [github issues](https://github.com/hicetnunc2000/hicetnunc/issues). There is also the #feature-requests and #suggestions channel in the [Discord](https://discord.gg/9qkgRsqa).
 
