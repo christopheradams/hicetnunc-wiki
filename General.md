@@ -50,6 +50,6 @@ First of all, congratulations.
 This is one method of seeing which work sold:
  
 1. View your transactions on `www.tzkt.io/[input your wallet address here]`
-2. Click on the transaction
-3. Copy the persons wallet address and go to their hic profile with it
-4. Look at their collections
+2. Click on the transaction and copy the operations hash. Example: ```ooBXHqeoSm6iju34S32gxTVLLHNJ39Xa9KCN4XSECqXS6xgF6UK```
+3. Paste the hash into ```https://better-call.dev/``` and search for it
+4. You will see the objktid listed on the right
