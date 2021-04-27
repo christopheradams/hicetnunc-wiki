@@ -27,7 +27,4 @@ Dica: Este projeto de código aberto foi lançado em 1º de março e ainda está
 
 ***
 
-
-> _Por favor, use a barra lateral para navegar_
-
 > Deseja contribuir com o wiki? Por favor, veja [Como contribuir para o Wiki](https://github.com/hicetnunc2000/hicetnunc/wiki/PT:Contributing#how-to-contribute-to-the-wiki)?
