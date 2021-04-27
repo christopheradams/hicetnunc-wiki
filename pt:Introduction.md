@@ -1,18 +1,20 @@
 ### Introdução
 Bem-vindo ao guia de criação de hicetnunc! Aqui você aprenderá como cunhar seu primeiro OBJKT.
-<hr>
+
+
+***
+
 *OBJKT*
 1: (substantivo) algo material que pode ser percebido pelos sentidos
 2: (substantivo) um NFT em hicetnunc.xyz
-</hr>
 
-<hr>
+
+***
+
 Continue em [Iniciando com Tezos](https://github.com/hicetnunc2000/hicetnunc/wiki/PT:Getting-Started-with-Tezos) para aprender como adquirir alguns tezos!
-</hr>
 
 Já tem tezos?
 Continue em [Como cunhar 🌿](https://github.com/hicetnunc2000/hicetnunc/wiki/PT:How-to-mint) para criar seu primeiro OBJKT!
-
 
 ***
 
