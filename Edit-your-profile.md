@@ -25,7 +25,32 @@ hicetnunc fetches the profile information from https://tzkt.io so to get your na
 
 ## I don't want to get verified through twitter or the google form. Are there any other options?
 If users don't have Google or Twitter accounts, they can contact Baking Bad to do the verification manually.
-There are several ways to send the profile: google form, twitter, telegram group, slack or email [https://baking-bad.org/docs/#contacts](Baking Bad contacts)
+Complete the form below and send it to their contacts: twitter, telegram group, slack or email [https://baking-bad.org/docs/#contacts](Baking Bad contacts)
+
+Account address
+tz1...
+
+Alias or Your Name (2-20 characters)
+
+Account confirmation transaction
+In order to prove the account ownership, you need to send (e.g. 0.003521 tez) from your account to tz1YUigABASqRUWAG97qHfHwYkYEGDk9q2Qv and provide the transaction hash. 
+
+Follow  https://twitter.com/TezosBakingBad
+[WARNING: Without following from the twitter account, provided below, your application won't be processed. If you don't have a twitter account, please, contact us hello@baking-bad.org]
+
+SQUARED Avatar image, 512x512 px, PNG
+
+Email
+Website (https only)
+Twitter
+Instagram
+Telegram
+Reddit
+Github
+Facebook
+
+Description
+Just a few sentences, introducing TzKT visitors into you. ENG only, no links allowed
 
 
 ## Help, I submitted the form over 72 hours ago but nothing has changed.
