@@ -23,6 +23,11 @@ hicetnunc fetches the profile information from https://tzkt.io so to get your na
 8. They will ask you to fill in a form with your contact information
 9. They will ask you to transfer 0.00177 tez to their address and provide the transaction in the form
 
+## I don't want to get verified through twitter or the google form. Are there any other options?
+If users don't have Google or Twitter accounts, they just contact Baking Bad and we do the verification manually.
+There are several ways to send the profile: google form, twitter, telegram group, slack or email [https://baking-bad.org/docs/#contacts](Baking Bad contacts)
+
+
 ## Help, I submitted the form over 72 hours ago but nothing has changed.
 
-Thats a question for the baking bad team, as hicetnunc doesn't have any control over it. You can try contact them on Telegram or resubmitting the form. https://t.me/baking_bad_chat
+Thats a question for the baking bad team, as hicetnunc doesn't have any control over it. You can try contact them on Telegram, Slack, or meail or resubmitting the form. [https://baking-bad.org/docs/#contacts](Baking Bad telegram group, slack, email)
