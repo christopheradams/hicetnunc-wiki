@@ -1,6 +1,6 @@
 author: Johan Karlsson (DonKarlssonSan)
 
-## How to get verified
+### How to get verified
 -- or how do I get my name in the profile?
 
 ### Short Answer: 
@@ -24,7 +24,7 @@ hicetnunc fetches the profile information from https://tzkt.io so to get your na
 9. They will ask you to transfer 0.00177 tez to their address and provide the transaction in the form
 
 ## I don't want to get verified through twitter or the google form. Are there any other options?
-If users don't have Google or Twitter accounts, they just contact Baking Bad and we do the verification manually.
+If users don't have Google or Twitter accounts, they can contact Baking Bad to do the verification manually.
 There are several ways to send the profile: google form, twitter, telegram group, slack or email [https://baking-bad.org/docs/#contacts](Baking Bad contacts)
 
 
