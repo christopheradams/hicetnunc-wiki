@@ -33,7 +33,7 @@ tz...
 **Alias or Your Name (2-20 characters)**
 
 **Account confirmation transaction**
-In order to prove the account ownership, you need to send (e.g. 0.003521 tez) from your account to tz1YUigABASqRUWAG97qHfHwYkYEGDk9q2Qv and provide the transaction hash. 
+In order to prove the account ownership, you need to send (e.g. 0.003521 tez) from your account to ```tz1YUigABASqRUWAG97qHfHwYkYEGDk9q2Qv``` and provide the transaction hash. 
 
 **Follow**  https://twitter.com/TezosBakingBad
 [WARNING: Without following from the twitter account, provided below, your application won't be processed. If you don't have a twitter account, please, contact us hello@baking-bad.org]
