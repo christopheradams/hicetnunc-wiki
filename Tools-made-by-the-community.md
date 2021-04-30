@@ -18,6 +18,9 @@
 
 * [Top 100 Artists by Income](https://hashquine.github.io/hicetnunc/artists-by-income-3/index.html) by @HashQuine
 
+* [HEN User Discovery Tool](https://karengin.com/hen/#tz1ZuRLk8zSwHB9T9FzDQqsiryXprLrH5xF2) by [Art Alternator](https://twitter.com/aalternator) 
+
+
 ## IFPS Pinning
 
 * [Hicetnunc IFPS Pinning](https://gist.github.com/mattdesl/47f4ea12ea131eed8401bdacf95a1f47) by Matt DesLauriers
