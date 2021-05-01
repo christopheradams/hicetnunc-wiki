@@ -36,9 +36,9 @@
 
 ### Shortlink Services
 The following services provide shortlinks to hicetnunc creation pages:
-* [hic.link](https://hic.link) by [1x1](https://twitter.com/1x1_NFT) 
-* [hen.link](https://hen.link/) by [playnft](https://twitter.com/playnft)
-* [hetn.xyz](https://hetn.xyz) by [hetn.xyz](https://hetn.xyz)
+* [hic.link](https://hic.link) by [1x1](https://twitter.com/1x1_NFT) PAID
+* [hen.link](https://hen.link/) by [playnft](https://twitter.com/playnft) FREE
+* [hetn.xyz](https://hetn.xyz) by [hetn.xyz](https://hetn.xyz) PAID
 
 ## Selling Tools
 * [Telegram Notifier Bot](https://tzsnt.fr/): Get a telegram message every time someone buys something.
