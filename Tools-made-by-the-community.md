@@ -21,10 +21,10 @@
 * [HEN User Discovery Tool](https://karengin.com/hen/#tz1ZuRLk8zSwHB9T9FzDQqsiryXprLrH5xF2) by [Art Alternator](https://twitter.com/aalternator) 
 
 
-## IFPS Pinning
+## IPFS Pinning
 
-* [Hicetnunc IFPS Pinning](https://gist.github.com/mattdesl/47f4ea12ea131eed8401bdacf95a1f47) by Matt DesLauriers
-* [Running IFPS node to pin content](https://twitter.com/antic/status/1374417104489697283?s=20) by Adam Eivy
+* [Hicetnunc IPFS Pinning](https://gist.github.com/mattdesl/47f4ea12ea131eed8401bdacf95a1f47) by Matt DesLauriers
+* [Running IPFS node to pin content](https://twitter.com/antic/status/1374417104489697283?s=20) by Adam Eivy
 
 ## Minting Tools
 * [Music Album HTML Template](https://www.hicetnunc.xyz/objkt/25359) by @cryptemes [[github]](https://github.com/EMES77/HEN_MusicAlbum_Template/releases/download/v2.0/CRYPTEMES_HEN_MusicAlbum_Template.zip)
