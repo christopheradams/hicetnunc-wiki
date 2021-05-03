@@ -1,5 +1,3 @@
-![hDAO overview by Leonard Schoelch](https://i.ibb.co/LRwNDKh/E0-IYE-1-XEAAdhv-S.jpg)
-
 ## What are those little circles on each post? hDAO? What is that?
 hDAO is a token that can be used to promote NFTs, and there is an hDAO feed on Hic et Nunc which orders NFTs with the most "upvotes" (hDAO balances). The current wallet hDAO balance is shown on each Hic et Nunc profile page in millionths of hDAO, so 0.5 hDAO will show up as 500000. And it is displayed in your wallet as 0.5 hDAO.
 
@@ -29,3 +27,5 @@ You can currently swap hDAO to Tezos and other coins at [Quipuswap](https://quip
 
 ## I'm a crypto geek. Where can I find out more?
 Here's the original [proposal](https://hicetnunc2000.medium.com/hicetnunc-microfunding-protocol-e270a63eb73c) and [discussion](https://forum.tezosagora.org/t/hicetnunc-microfunding-protocol/2318) for hDAO.
+
+![hDAO overview by Leonard Schoelch](https://i.ibb.co/LRwNDKh/E0-IYE-1-XEAAdhv-S.jpg)
