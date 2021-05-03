@@ -15,3 +15,5 @@
 ***
 **Hint:** _Transactions on the blockchain are irreversible, thats why you need to send it to another wallet. The burn address is an address nobody owns a key of._
 
+![Please cancel swap prior to burn operation](https://i.ibb.co/c6x821J/sketch-1619101908825.png)
+
