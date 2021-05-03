@@ -13,4 +13,5 @@ Utilidades
 * Dividendos potenciais
 
 _a partir de 29 de abril_
+
 **implementação em andamento**
