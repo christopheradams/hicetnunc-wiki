@@ -48,6 +48,9 @@ The following services provide shortlinks to hicetnunc creation pages:
 * [Hicetnunc Collection Generator](https://github.com/tarwin/hicetnunc-collection-generator) by @tarwin generates thumbs and a gallery
 * [A gallery for your HEN collection, just connect your wallet.](https://hen-gallery.herokuapp.com/) by @PureSpider
 * [Digital Frame Maker](https://primitive-objkts.gimmix.org/) by [shahruz](https://github.com/shahruz). [[src]](https://github.com/gimmix-org/primitive-objkts) [[github]](https://github.com/gimmix-org/primitive-objkts)
+* [Hic et Nunc API CDK](https://github.com/OrderAndCh4oS/hicetnunc-api-cdk) by @__orderandchaosa (trimmed-down API for fetching wallet and objkt data from the blockchain with conseiljs, intended for use by Galleries.)
+* [Generate Thumbs and Upload to S3](https://github.com/OrderAndCh4oS/hicetnunc-generate-thumbs-and-upload-to-s3) By @__orderandchaos
+This can be combined with Hic et Nunc API CDK to fetch and generate thumbs from a given set of wallet ids and upload them to S3. 
 
 ## Misc
 * [Naive status page for hicetnunc.xyz](https://hicetnuncstatus.herokuapp.com/) by @fraguada @LeithBA [github](https://github.com/fraguada/hicetnuncstatus)
