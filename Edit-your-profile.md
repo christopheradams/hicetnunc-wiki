@@ -54,4 +54,5 @@ Just a few sentences, introducing TzKT visitors into you. English only, no links
 
 ## Help, I submitted the form over 72 hours ago but nothing has changed.
 
-You may have not followed them on twitter or filled out the form properly. You can try to resend the form and follow them, or you can contact the baking bad team directly, as hicetnunc doesn't have any control over it. You can try contact them on Telegram, Slack, or meail or resubmitting the form. [Baking Bad telegram group, slack, email, etc](https://baking-bad.org/docs/#contacts)
+You may have not followed them on twitter or filled out the form properly. You can try to resend the form and follow them, or you can contact the baking bad team directly, as hicetnunc doesn't have any control over it. See their official guide for how to contact them. [F.A.Q Hic et nunc verification
+](https://baking-bad.org/blog/2021/05/01/f-a-q-hic-et-nunc/)
