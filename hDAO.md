@@ -26,6 +26,6 @@ Until mid-April, when you buy an NFT, say for 1ꜩ, you will earn 0.5 hDAO, and 
 You can currently swap hDAO to Tezos and other coins at [Quipuswap](https://quipuswap.com/swap), an automated market-making decentralized exchange (DEX) on the Tezos blockchain. You can also earn a share of trading fees by [adding your hDAO to the liquidity pools](https://xtz.news/defi-news/quipuswap/decentralized-exchange-quipuswap-is-live-on-tezos/), although this comes with an element of risk.
 
 ## I'm a crypto geek. Where can I find out more?
-Here's the original [proposal](https://hicetnunc2000.medium.com/hicetnunc-microfunding-protocol-e270a63eb73c) and [discussion](https://forum.tezosagora.org/t/hicetnunc-microfunding-protocol/2318) for hDAO.
+Here's the original [proposal](https://hicetnunc2000.medium.com/hicetnunc-microfunding-protocol-e270a63eb73c) and [discussion](https://forum.tezosagora.org/t/hicetnunc-microfunding-protocol/2318) for hDAO. You can also go to our discord to join the whale watchers in the #tezos channel or learn more in the #hdao-governance channel.
 
 ![hDAO overview by Leonard Schoelch](https://i.ibb.co/LRwNDKh/E0-IYE-1-XEAAdhv-S.jpg)
