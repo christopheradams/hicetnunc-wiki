@@ -45,6 +45,7 @@ The following services provide shortlinks to hicetnunc creation pages:
 
 ## Gallery Tools
 
+* [Hicetnunc Collection Generator](https://github.com/tarwin/hicetnunc-collection-generator) by @tarwin generates thumbs and a gallery
 * [A gallery for your HEN collection, just connect your wallet.](https://hen-gallery.herokuapp.com/) by @PureSpider
 * [Digital Frame Maker](https://primitive-objkts.gimmix.org/) by [shahruz](https://github.com/shahruz). [[src]](https://github.com/gimmix-org/primitive-objkts) [[github]](https://github.com/gimmix-org/primitive-objkts)
 
