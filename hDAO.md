@@ -1,3 +1,5 @@
+![hDAO overview](https://ibb.co/V9yw06p)
+
 ## What are those little circles on each post? hDAO? What is that?
 hDAO is a token that can be used to promote NFTs, and there is an hDAO feed on Hic et Nunc which orders NFTs with the most "upvotes" (hDAO balances). The current wallet hDAO balance is shown on each Hic et Nunc profile page in millionths of hDAO, so 0.5 hDAO will show up as 500000. And it is displayed in your wallet as 0.5 hDAO.
 
