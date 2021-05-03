@@ -30,3 +30,18 @@ Here's the original [proposal](https://hicetnunc2000.medium.com/hicetnunc-microf
 
 ![hDAO overview by Leonard Schoelch](https://i.ibb.co/LRwNDKh/E0-IYE-1-XEAAdhv-S.jpg)
 _hDAO overview by Leonard Schoelch_
+
+hDAO FACTS:
+-Tezos FA2 Token
+-651k total supply
+-Token of hicetnunc.xyz (~20k xtz 24h volume)
+-~$16 million market cap
+-Largest holder <3% of total supply*
+
+Utility
+-OBJKT (nft) upvoting
+-Hicetnunc governance
+-Potentially dividends
+
+*as of the 29th of April
+**implementation ongoing
