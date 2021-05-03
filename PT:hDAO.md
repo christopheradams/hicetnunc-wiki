@@ -12,5 +12,5 @@ Utilidades
 * Governança do Hicetnunc
 * Dividendos potenciais
 
-* a partir de 29 de abril
-** implementação em andamento
+_a partir de 29 de abril_
+**implementação em andamento**
