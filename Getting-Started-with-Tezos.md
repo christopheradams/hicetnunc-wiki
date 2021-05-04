@@ -20,6 +20,8 @@ Please send a message with:
 
 This channel is open to the community and if someone is willing to sponsor you they will send you some tezos.
 
+If you sponsor someone, please put a 100% emoji on their post so we know they have been sponsored
+💯💯💯💯
 ***
 Already have tezos? 
 
