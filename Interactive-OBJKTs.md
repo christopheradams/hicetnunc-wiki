@@ -95,12 +95,12 @@ const viewer = new URLSearchParams(window.location.search).get('viewer')
 - If everything looks good, make sure your wallet is synced and press the "mint" button at the bottom of the page.
 - Congratulations! You have just minted your first interactive OBJKT 🎉
 
+## Minting AR OBJKTS
+[Please see the tutorial by FREEBOID](http://www.freeboid.com/xrobjkts-at-hen/)
+
 # Known Issues
 
 - If you are using Brave and notice the HTML preview not working on the mint page, you will need to disable your shields for this site, or reconfigure them to allow service workers.
-
-# Minting AR OBJKTS
-[Please see the tutorial by FREEBOID](http://www.freeboid.com/xrobjkts-at-hen/)
 
 # Help
 
