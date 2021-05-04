@@ -11,7 +11,7 @@ Minting on hicetnunc only costs ~0.08 tezos. You can buy some on an exchange sit
 
 ## The Hicetnunc Tezos Fountain
 ⛲
-Need tezos but can't get them? You can request someone to sponsor you in the #tezos-fountain channel on [Discord](https://discord.gg/FwZyeQp5).
+Need tezos but can't get them? You can request a volunteer from the community to sponsor you in the #tezos-fountain channel on [Discord](https://discord.gg/FwZyeQp5).
 
 Please send a message with:
 * a little bit about you and why you are looking for a sponsorship
@@ -20,7 +20,7 @@ Please send a message with:
 
 This channel is open to the community and if someone is willing to sponsor you they will send you some tezos.
 
-If you sponsor someone, please put a 100% emoji on their post so we know they have been sponsored
+If you volunteer to sponsor someone, please put a 100% emoji on their post so we know they have been sponsored. We recommend sending 0.33333 tez. 
 💯💯💯💯
 ***
 Already have tezos? 
