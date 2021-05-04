@@ -99,6 +99,9 @@ const viewer = new URLSearchParams(window.location.search).get('viewer')
 
 - If you are using Brave and notice the HTML preview not working on the mint page, you will need to disable your shields for this site, or reconfigure them to allow service workers.
 
+# Minting AR OBJKTS
+[Please see the tutorial by FREEBOID](http://www.freeboid.com/xrobjkts-at-hen/)
+
 # Help
 
 If you find a bug, please open an issue on [Github](https://github.com/hicetnunc2000/hicetnunc/issues). Otherwise, seek help on [Discord](https://discord.com/invite/jKNy6PynPK).
