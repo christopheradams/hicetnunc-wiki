@@ -22,6 +22,11 @@ OBJKTs KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton
 ## How do I earn hDAO?
 From Hicetnunc's launch (March 1) to mid-April, when you bought an NFT, say for 1ꜩ, you earned 0.5 hDAO, and the seller would also earn 0.5 hDAO. Now that distribution is over, you can only buy hDAO. Continue reading for how to buy hDAO.
 
+## Where can I buy hDAO?
+Generally you can use [Quipuswap](https://quipuswap.com/swap). Heres a guide for how to buy with Temple Wallet:
+
+![Instructions of how to buy](https://i.ibb.co/RHHPKYs/image0.jpg)
+
 ## Can I convert my hDAO to another token, or use them for anything else?
 You can currently swap hDAO to Tezos and other coins at [Quipuswap](https://quipuswap.com/swap), an automated market-making decentralized exchange (DEX) on the Tezos blockchain. You can also earn a share of trading fees by [adding your hDAO to the liquidity pools](https://xtz.news/defi-news/quipuswap/decentralized-exchange-quipuswap-is-live-on-tezos/), although this comes with an element of risk.
 
