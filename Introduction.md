@@ -1,4 +1,4 @@
-Welcome to the hicetnunc minting guide! Here you will learn how to mint your first OBJKT.
+Welcome to the https://www.hicetnunc.xyz/ minting guide! Here you will learn how to mint your first OBJKT.
 ***
 ### **OBJKT**
 1: _(noun)_ something material that may be perceived by the senses
