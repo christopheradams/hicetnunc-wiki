@@ -1,3 +1,37 @@
+![hDAO overview by Leonard Schoelch](https://i.ibb.co/LRwNDKh/E0-IYE-1-XEAAdhv-S.jpg)
+
+_hDAO overview by Leonard Schoelch_
+
+### hDAO FACTS:
+* Tezos FA2 Token
+* 651k total supply
+* Token of hicetnunc.xyz (~20k xtz 24h volume)
+* ~$16 million market cap
+* Largest holder <3% of total supply*
+
+### Utility
+* OBJKT (nft) upvoting
+* Hicetnunc governance
+* Potentially dividends
+
+_as of the 29th of April_
+**implementation ongoing**
+
+
+## How do I earn hDAO?
+From Hicetnunc's launch (March 1) to mid-April, when you bought an NFT, say for 1ꜩ, you earned 0.5 hDAO, and the seller would also earn 0.5 hDAO. Now that distribution is over, you can only buy hDAO. Continue reading for how to buy hDAO.
+
+## Where can I buy hDAO?
+Generally you can use [Quipuswap](https://quipuswap.com/swap). Heres a guide for how to buy with Temple Wallet:
+
+![Instructions of how to buy](https://i.ibb.co/RHHPKYs/image0.jpg)
+
+## Can I convert my hDAO to another token, or use them for anything else?
+You can currently swap hDAO to Tezos and other coins at [Quipuswap](https://quipuswap.com/swap), an automated market-making decentralized exchange (DEX) on the Tezos blockchain. You can also earn a share of trading fees by [adding your hDAO to the liquidity pools](https://xtz.news/defi-news/quipuswap/decentralized-exchange-quipuswap-is-live-on-tezos/), although this comes with an element of risk.
+
+## I'm a crypto geek. Where can I find out more?
+Here's the original [proposal](https://hicetnunc2000.medium.com/hicetnunc-microfunding-protocol-e270a63eb73c) and [discussion](https://forum.tezosagora.org/t/hicetnunc-microfunding-protocol/2318) for hDAO. You can also go to our discord to join the whale watchers in the #tezos channel or learn more in the #hdao-governance channel.
+
 ## What are those little circles on each post? hDAO? What is that?
 hDAO is a token that can be used to promote NFTs, and there is an hDAO feed on Hic et Nunc which orders NFTs with the most "upvotes" (hDAO balances). The current wallet hDAO balance is shown on each Hic et Nunc profile page in millionths of hDAO, so 0.5 hDAO will show up as 500000. And it is displayed in your wallet as 0.5 hDAO.
 
@@ -18,36 +52,3 @@ Curations KT1TybhR7XraG75JFYKSrh7KnxukMBT5dor6 (hDAO-NFT wallet)
 OBJKT Swap/Mintery KT1Hkg5qeNhfwpKW4fXvq7HGZB9z2EnmCCA9
 OBJKTs KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton
 ```
-
-## How do I earn hDAO?
-From Hicetnunc's launch (March 1) to mid-April, when you bought an NFT, say for 1ꜩ, you earned 0.5 hDAO, and the seller would also earn 0.5 hDAO. Now that distribution is over, you can only buy hDAO. Continue reading for how to buy hDAO.
-
-## Where can I buy hDAO?
-Generally you can use [Quipuswap](https://quipuswap.com/swap). Heres a guide for how to buy with Temple Wallet:
-
-![Instructions of how to buy](https://i.ibb.co/RHHPKYs/image0.jpg)
-
-## Can I convert my hDAO to another token, or use them for anything else?
-You can currently swap hDAO to Tezos and other coins at [Quipuswap](https://quipuswap.com/swap), an automated market-making decentralized exchange (DEX) on the Tezos blockchain. You can also earn a share of trading fees by [adding your hDAO to the liquidity pools](https://xtz.news/defi-news/quipuswap/decentralized-exchange-quipuswap-is-live-on-tezos/), although this comes with an element of risk.
-
-## I'm a crypto geek. Where can I find out more?
-Here's the original [proposal](https://hicetnunc2000.medium.com/hicetnunc-microfunding-protocol-e270a63eb73c) and [discussion](https://forum.tezosagora.org/t/hicetnunc-microfunding-protocol/2318) for hDAO. You can also go to our discord to join the whale watchers in the #tezos channel or learn more in the #hdao-governance channel.
-
-![hDAO overview by Leonard Schoelch](https://i.ibb.co/LRwNDKh/E0-IYE-1-XEAAdhv-S.jpg)
-
-_hDAO overview by Leonard Schoelch_
-
-### hDAO FACTS:
-* Tezos FA2 Token
-* 651k total supply
-* Token of hicetnunc.xyz (~20k xtz 24h volume)
-* ~$16 million market cap
-* Largest holder <3% of total supply*
-
-### Utility
-* OBJKT (nft) upvoting
-* Hicetnunc governance
-* Potentially dividends
-
-_as of the 29th of April_
-**implementation ongoing**
