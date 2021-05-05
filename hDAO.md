@@ -14,7 +14,8 @@ _hDAO overview by Leonard Schoelch_
 * Hicetnunc governance
 * Potentially dividends
 
-_as of the 29th of April_
+_*as of the 29th of April_
+
 **implementation ongoing**
 
 
