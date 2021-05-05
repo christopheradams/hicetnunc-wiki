@@ -5,7 +5,7 @@
 2: _(verb)_ to create an OBJKT (NFT)
 
 ***
-
+How to mint on https://www.hicetnunc.xyz/
 1. Click on “Sync". Your browser will ask you to sync with your wallet.
 2. Approve the sync in your wallet
 3. Click the [OBJKTS (mint NFTs)] button in the hamburger menu
