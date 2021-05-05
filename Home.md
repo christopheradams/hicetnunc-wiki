@@ -1,4 +1,4 @@
-Welcome to the hicetnunc wiki!
+Welcome to the https://www.hicetnunc.xyz/ wiki!
 
 ### **hic et nunc** 
 _(Latin)_
