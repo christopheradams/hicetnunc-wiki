@@ -42,6 +42,8 @@ The following services provide shortlinks to hicetnunc creation pages:
 
 ## Selling Tools
 * [Telegram Notifier Bot](https://tzsnt.fr/): Get a telegram message every time someone buys something.
+* [HICTORY](https://hictory.glitch.me/#tz2HwP1JKEjEy4H8RxPMkoHWuSzUWZsRSC3R) by [Leith Ben Abdessalem](https://twitter.com/LeithBA): An easy to read transaction history.
+
 
 ## Gallery Tools
 
