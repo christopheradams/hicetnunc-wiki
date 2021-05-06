@@ -47,7 +47,7 @@ The hDAOs appear in your profile and should also appear in your wallet.
 
 Visit the [hDAO feed](https://hicetnunc.xyz/hdao).
 
-## An example of the info stored in the hDAO blockchain
+## Contract addresses
 
 ```OBJKT KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton
 hDAO KT1AFA2mwNUMNd4SsujE1YYp29vd8BZejyKW
