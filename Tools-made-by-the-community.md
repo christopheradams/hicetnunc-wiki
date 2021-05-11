@@ -1,6 +1,6 @@
 ## Discovery Tools
 
-* [OBJKT transaction history](https://hicetnunc.xyz/objkt/46415) by Javier Graciá Carpio
+* [OBJKT transaction history](https://hicetnunc.xyz/objkt/46415) by Javier Garciá Carpio
 
 * [Discovery Tool](https://projects.stroep.nl/hicetnunc/#discover) by Mark Knol
 
@@ -32,7 +32,7 @@
 ## Sharing Tools
 * Share your OBJKT link with image preview on social media, just replace your OBJKT ID by @PureSpider
 
-```http://objkt.link/OBJKT-ID```
+```http://objkt.link/OBJKTID```
 
 ### Shortlink Services
 The following services provide shortlinks to hicetnunc creation pages:
