@@ -55,4 +55,4 @@ This can be combined with Hic et Nunc API CDK to fetch and generate thumbs from 
 
 ## Misc
 * [Naive status page for hicetnunc.xyz](https://hicetnuncstatus.herokuapp.com/) by @fraguada @LeithBA [github](https://github.com/fraguada/hicetnuncstatus)
-* [https://batch.xtz.tools] An FA2 token batch sender! 🥳 Makes it a lot easier to send lots of tokens to many people at once - no more waiting for your wallet to confirm transactions one by one! by [@purespider](https://twitter.com/PureSpider/status/1391784668601651200?s=19)
+* [https://batch.xtz.tools] An FA2 token batch sender! 🥳 Makes it a lot easier to send lots of tokens to many people at once - no more waiting for your wallet to confirm transactions one by one! by [@purespider](https://twitter.com/PureSpider/status/1391784668601651200?s=19) With this tool people could do freebie giveaways by collecting people's adresses and then batch send OBJKTS
