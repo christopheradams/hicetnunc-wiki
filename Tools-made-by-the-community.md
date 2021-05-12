@@ -20,7 +20,6 @@
 
 * [HEN User Discovery Tool](https://karengin.com/hen/#tz1ZuRLk8zSwHB9T9FzDQqsiryXprLrH5xF2) by [Art Alternator](https://twitter.com/aalternator) 
 
-
 ## IPFS Pinning
 
 * [Hicetnunc IPFS Pinning](https://gist.github.com/mattdesl/47f4ea12ea131eed8401bdacf95a1f47) by Matt DesLauriers
@@ -36,24 +35,34 @@
 
 ### Shortlink Services
 The following services provide shortlinks to hicetnunc creation pages:
+
 * [hic.link](https://hic.link) by [1x1](https://twitter.com/1x1_NFT) PAID
+
 * [hen.link](https://hen.link/) by [playnft](https://twitter.com/playnft) FREE
+
 * [hetn.xyz](https://hetn.xyz) by [hetn.xyz](https://hetn.xyz) PAID
 
 ## Selling Tools
 * [Telegram Notifier Bot](https://tzsnt.fr/): Get a telegram message every time someone buys something.
+
 * [HICTORY](https://hictory.glitch.me/#tz2HwP1JKEjEy4H8RxPMkoHWuSzUWZsRSC3R) by [Leith Ben Abdessalem](https://twitter.com/LeithBA): An easy to read transaction history.
 
 ## Gallery Tools
 
 * [Hicetnunc Collection Generator](https://github.com/tarwin/hicetnunc-collection-generator) by @tarwin generates thumbs and a gallery
+
 * [A gallery for your HEN collection, just connect your wallet.](https://hen-gallery.herokuapp.com/) by @PureSpider
+
 * [Digital Frame Maker](https://primitive-objkts.gimmix.org/) by [shahruz](https://github.com/shahruz). [[src]](https://github.com/gimmix-org/primitive-objkts) [[github]](https://github.com/gimmix-org/primitive-objkts)
+
 * [Hic et Nunc API CDK](https://github.com/OrderAndCh4oS/hicetnunc-api-cdk) by @__orderandchaosa (trimmed-down API for fetching wallet and objkt data from the blockchain with conseiljs, intended for use by Galleries.)
+
 * [Generate Thumbs and Upload to S3](https://github.com/OrderAndCh4oS/hicetnunc-generate-thumbs-and-upload-to-s3) By @__orderandchaos
 This can be combined with Hic et Nunc API CDK to fetch and generate thumbs from a given set of wallet ids and upload them to S3. 
-* [objkts.gallery](https://objkts.gallery) by ishacbertran. Creates a beautiful slideshow gallery from a list of OBJKTs.
+
+* [objkts.gallery](https://objkts.gallery) by @ishacbertran. Creates a beautiful slideshow gallery from a list of OBJKTs.
 
 ## Misc
 * [Naive status page for hicetnunc.xyz](https://hicetnuncstatus.herokuapp.com/) by @fraguada @LeithBA [github](https://github.com/fraguada/hicetnuncstatus)
-* [https://batch.xtz.tools/](https://batch.xtz.tools) An FA2 token batch sender! 🥳 Makes it a lot easier to send lots of tokens to many people at once - no more waiting for your wallet to confirm transactions one by one! by [@purespider](https://twitter.com/PureSpider/status/1391784668601651200?s=19) With this tool people could do freebie giveaways by collecting people's adresses and then batch send OBJKTS
+
+* [https://batch.xtz.tools/](https://batch.xtz.tools) An FA2 token batch sender! 🥳 Makes it a lot easier to send lots of tokens to many people at once - no more waiting for your wallet to confirm transactions one by one! by [@purespider] (https://twitter.com/PureSpider/status/1391784668601651200?s=19) With this tool people could do freebie giveaways by collecting people's addresses and then batch-send OBJKTS.
