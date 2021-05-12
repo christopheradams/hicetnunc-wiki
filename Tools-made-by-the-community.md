@@ -52,6 +52,7 @@ The following services provide shortlinks to hicetnunc creation pages:
 * [Hic et Nunc API CDK](https://github.com/OrderAndCh4oS/hicetnunc-api-cdk) by @__orderandchaosa (trimmed-down API for fetching wallet and objkt data from the blockchain with conseiljs, intended for use by Galleries.)
 * [Generate Thumbs and Upload to S3](https://github.com/OrderAndCh4oS/hicetnunc-generate-thumbs-and-upload-to-s3) By @__orderandchaos
 This can be combined with Hic et Nunc API CDK to fetch and generate thumbs from a given set of wallet ids and upload them to S3. 
+* [objkts.gallery](https://objkts.gallery) by ishacbertran. Creates a beautiful slideshow gallery from a list of OBJKTs.
 
 ## Misc
 * [Naive status page for hicetnunc.xyz](https://hicetnuncstatus.herokuapp.com/) by @fraguada @LeithBA [github](https://github.com/fraguada/hicetnuncstatus)
