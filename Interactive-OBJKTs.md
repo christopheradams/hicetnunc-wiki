@@ -98,6 +98,9 @@ const viewer = new URLSearchParams(window.location.search).get('viewer')
 ## Minting AR OBJKTS
 [Please see the tutorial by FREEBOID](http://www.freeboid.com/xrobjkts-at-hen/)
 
+## Minting Unity WebGL Builds
+https://github.com/hicetnunc2000/hicetnunc/issues/602
+
 # Known Issues
 
 - If you are using Brave and notice the HTML preview not working on the mint page, you will need to disable your shields for this site, or reconfigure them to allow service workers.
