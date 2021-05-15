@@ -22,12 +22,13 @@ Please send a message with:
 The #tezos-fountain in the Discord is open to the community and if you are willing to sponsor an artist you can volunteer to send them some tez. If you volunteer to sponsor someone, please put a 100% emoji on their post so we know they have been sponsored. We recommend sending 0.33333 tez. 
 💯💯💯💯
 
+*Common wallet errors*
 ![account doesnt exist error from tzkt.io](https://imgshare.io/images/2021/05/15/account_doesnt_exist.png)
 
 _Pro tip: If your account on tzkt.io shows this, don't worry. It just means you don't have any transactions yet in your wallet. Once you receive some tezos it should go away._
 
 ![Prevalidation error in the temple wallet](https://imgshare.io/images/2021/05/15/pre_validation_error.png)
-
+_Pro tip: _
 ***
 Already have tezos? 
 
