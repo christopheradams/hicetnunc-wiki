@@ -19,13 +19,11 @@ Please send a message with:
 * a link to a post on your social media account with the fountain emoji. Your social media account has to have your art on it, has to have followers, and has to have been made more than a month ago. We ask for this to make sure you are a legit artist and not a scammer. (Lying about your identity will result in an immediate ban from the Discord).
 
 ### ⛲ Volunteering as a Sponsor
-This channel is open to the community and if someone is willing to sponsor you can send an artist some tezos.
-
-If you volunteer to sponsor someone, please put a 100% emoji on their post so we know they have been sponsored. We recommend sending 0.33333 tez. 
+This channel is open to the community and if someone is willing to sponsor you can send an artist some tezos. If you volunteer to sponsor someone, please put a 100% emoji on their post so we know they have been sponsored. We recommend sending 0.33333 tez. 
 💯💯💯💯
 
 ![account doesnt exist error from tzkt.io](https://imgshare.io/images/2021/05/15/account_doesnt_exist.png)
-Pro tip: If your account on tzkt.io shows this, don't worry. It just means you don't have any transactions yet in your wallet. Once you receive some tezos it should go away. 
+_Pro tip: If your account on tzkt.io shows this, don't worry. It just means you don't have any transactions yet in your wallet. Once you receive some tezos it should go away. _
 
 ***
 Already have tezos? 
