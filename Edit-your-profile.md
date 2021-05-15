@@ -1,4 +1,4 @@
-author: Johan Karlsson (DonKarlssonSan)
+_author: Johan Karlsson (DonKarlssonSan)_
 
 ### How to get verified
 -- or how do I get my name in the profile?
