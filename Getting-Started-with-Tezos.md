@@ -19,7 +19,7 @@ Please send a message with:
 * a link to a post on your social media account with the fountain emoji. Your social media account has to have your art on it, has to have followers, and has to have been made more than a month ago. We ask for this to make sure you are a legit artist and not a scammer. (Lying about your identity will result in an immediate ban from the Discord).
 
 ### ⛲ Volunteering as a Sponsor
-The #tezos-fountain in the Discord is open to the community and if you are willing to sponsor an artist you can volunteer to send them some tez. If you volunteer to sponsor someone, please put a 100% emoji on their post so we know they have been sponsored. We recommend sending 0.33333 tez. 
+The #tezos-fountain in the Discord is open to the community and if you are willing to sponsor an artist you can volunteer to send them some tez. If you volunteer to sponsor someone, please put a 100% emoji on their post so we know they have been sponsored. We recommend sending 0.33333 tez. You can also send them the tzkt.io transaction as a confirmation.
 💯💯💯💯
 
 **Common wallet errors**
