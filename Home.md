@@ -6,6 +6,9 @@ _(Latin)_
 ### **here and now**
 _(English)_
 
+
+***
+
 * [Home](https://github.com/hicetnunc2000/hicetnunc/wiki)
 
 **Minting Guide**
