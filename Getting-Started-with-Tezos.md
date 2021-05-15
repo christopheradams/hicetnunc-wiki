@@ -28,6 +28,7 @@ The #tezos-fountain in the Discord is open to the community and if you are willi
 _Pro tip: If your account on tzkt.io shows this, don't worry. It just means you don't have any transactions yet in your wallet. Once you receive some tezos it should go away._
 
 ![Prevalidation error in the temple wallet](https://imgshare.io/images/2021/05/15/pre_validation_error.png)
+
 _Pro tip: This means you should refresh the page. Just give it a couple of seconds for the transaction to go through and you will get the "applied" status._
 ***
 Already have tezos? 
