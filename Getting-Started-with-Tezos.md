@@ -23,7 +23,7 @@ This channel is open to the community and if someone is willing to sponsor you c
 💯💯💯💯
 
 ![account doesnt exist error from tzkt.io](https://imgshare.io/images/2021/05/15/account_doesnt_exist.png)
-_Pro tip: If your account on tzkt.io shows this, don't worry. It just means you don't have any transactions yet in your wallet. Once you receive some tezos it should go away. _
+_Pro tip: If your account on tzkt.io shows this, don't worry. It just means you don't have any transactions yet in your wallet. Once you receive some tezos it should go away._
 
 ***
 Already have tezos? 
