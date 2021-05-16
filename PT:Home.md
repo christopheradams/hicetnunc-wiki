@@ -1,5 +1,8 @@
-* [Início](https://github.com/hicetnunc2000/hicetnunc/wiki/PT:Home)
+### hic et nunc
+(Latino)
 
+### here and now
+(Português)
 ***
 
 **Guia**
