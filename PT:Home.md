@@ -3,7 +3,7 @@
 ***
 
 **Guia**
-* [Introdução](https://github.com/hicetnunc2000/hicetnunc/wiki/PT:Introduction)
+* [Introdução](https://github.com/hicetnunc2000/hicetnunc/wiki/PT:Introdução)
 * [Edite seu perfil](https://github.com/hicetnunc2000/hicetnunc/wiki/PT:Edite-Seu-Perfil)
 * [Introdução ao Tezos](https://github.com/hicetnunc2000/hicetnunc/wiki/PT:Getting-Started-with-Tezos)
 * [Como cunhar 🌿](https://github.com/hicetnunc2000/hicetnunc/wiki/PT:Como-cunhar)
