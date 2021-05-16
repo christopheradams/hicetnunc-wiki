@@ -18,7 +18,7 @@ Continue em [Como cunhar 🌿](https://github.com/hicetnunc2000/hicetnunc/wiki/P
 
 ***
 
-Dica: antes de começar a cunhar, você já pode começar a configurar seu perfil se já tiver uma carteira. Leia [Como configurar seu perfil](https://github.com/hicetnunc2000/hicetnunc/wiki/PT:Edit-your-profile)
+Dica: antes de começar a cunhar, você já pode começar a configurar seu perfil se já tiver uma carteira. Leia [Como configurar seu perfil](https://github.com/hicetnunc2000/hicetnunc/wiki/PT:Edite-Seu-Perfil)
 
 ***
 
