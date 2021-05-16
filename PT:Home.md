@@ -8,7 +8,7 @@
 * [Introdução ao Tezos](https://github.com/hicetnunc2000/hicetnunc/wiki/PT:Getting-Started-with-Tezos)
 * [Como cunhar 🌿](https://github.com/hicetnunc2000/hicetnunc/wiki/PT:How-to-mint)
 * [Como anunciar🔃](https://github.com/hicetnunc2000/hicetnunc/wiki/PT:How-to-swap)
-* [Como cancelar ❌](https://github.com/hicetnunc2000/hicetnunc/wiki/PT:How-to-cancel)
+* [Como cancelar ❌](https://github.com/hicetnunc2000/hicetnunc/wiki/PT:Como Cancelar)
 * [Como descartar 🔥](https://github.com/hicetnunc2000/hicetnunc/wiki/PT:Como-Descartar)
 * [Como revender 🏪](https://github.com/hicetnunc2000/hicetnunc/wiki/PT:How-to-resell)
 * [OBJKTs interativos](https://github.com/hicetnunc2000/hicetnunc/wiki/PT:Interactive-OBJKTs)
