@@ -12,4 +12,4 @@ Cunhar no hicetnunc custa apenas ~ 0,08 tezos. Você pode comprar alguns em um s
 
 Já tem tezos ?
 
-Continue em [Como cunhar](https://github.com/hicetnunc2000/hicetnunc/wiki/PT:How-to-mint) 🌿 para criar seu primeiro OBJKT!
+Continue em [Como cunhar](https://github.com/hicetnunc2000/hicetnunc/wiki/PT:Como-cunhar) 🌿 para criar seu primeiro OBJKT!
