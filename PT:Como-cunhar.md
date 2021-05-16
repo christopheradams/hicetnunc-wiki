@@ -9,9 +9,7 @@ _Traduzimos o termo 'mint' para 'cunhar', pois é a palavra que mais se assemelh
 
 Como cunhar em https://www.hicetnunc.xyz/
 
-
 ***
-
 
 1. Clique em “Sync”. O seu navegador irá lhe solicitar para sincronizar com a sua carteira.
 2. Aprove a sincronização em sua carteira
@@ -21,12 +19,10 @@ Como cunhar em https://www.hicetnunc.xyz/
 6. Clique em [mint]. Aprove da sua carteira e a transação da Tezos será realizada.
 7. Verifique em sua carteira se a cunhagem foi confirmada. Os tempos variam de acordo com o tempo que a confirmação deve levar, mas geralmente leva alguns minutos.
 
-_Importante: Nesse momento, seu OBJKT ainda não tem um preço.__
-
+_Importante: Nesse momento, seu OBJKT ainda não tem um preço__
 
 ***
 
-
-Continue em Como anunciar 🔃 para aprender como definir preços para seus OBJKTs.
+Continue em [Como anunciar 🔃](https://github.com/hicetnunc2000/hicetnunc/wiki/PT:Como-troncar) para aprender como definir preços para seus OBJKTs.
 
 Dica: Com base no número da edição que você cunhou, você verá uma série de “OBJKTS” em sua carteira de tez. Esses OBJKTs recém-criados agora pertencem a você.
