@@ -1,6 +1,6 @@
-Traduzimos a palavra swap por trocar, no seu sentido literal. Ao fazer swap(troca) no Hic Et Nunc, um anúncio com preço será feito, possibilitando assim que algum interessado possa trocar seu NFT por uma certa quantia em criptomoedas.
+_Traduzimos a palavra swap por trocar, no seu sentido literal. Ao fazer swap(troca) no Hic Et Nunc, um anúncio com preço será feito, possibilitando assim que algum interessado possa trocar seu NFT por uma certa quantia em criptomoedas._
 
-# Como Trocar🔃
+# Como Trocar 🔃
 
 ## Trocar
 
