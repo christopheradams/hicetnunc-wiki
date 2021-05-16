@@ -4,7 +4,7 @@
 
 **Guia**
 * [Introdução](https://github.com/hicetnunc2000/hicetnunc/wiki/PT:Introduction)
-* [Edite seu perfil](https://github.com/hicetnunc2000/hicetnunc/wiki/PT:Edit-your-profile)
+* [Edite seu perfil](https://github.com/hicetnunc2000/hicetnunc/wiki/PT:Edite-Seu-Perfil)
 * [Introdução ao Tezos](https://github.com/hicetnunc2000/hicetnunc/wiki/PT:Getting-Started-with-Tezos)
 * [Como cunhar 🌿](https://github.com/hicetnunc2000/hicetnunc/wiki/PT:Como-cunhar)
 * [Como trocar🔃](https://github.com/hicetnunc2000/hicetnunc/wiki/PT:Como-Trocar)
