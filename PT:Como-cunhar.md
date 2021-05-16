@@ -23,6 +23,6 @@ _Importante: Nesse momento, seu OBJKT ainda não tem um preço__
 
 ***
 
-Continue em [Como anunciar 🔃](https://github.com/hicetnunc2000/hicetnunc/wiki/PT:Como-troncar) para aprender como definir preços para seus OBJKTs.
+Continue em [Como trocar 🔃](https://github.com/hicetnunc2000/hicetnunc/wiki/PT:Como-trocar) para aprender como definir preços para seus OBJKTs.
 
 Dica: Com base no número da edição que você cunhou, você verá uma série de “OBJKTS” em sua carteira de tez. Esses OBJKTs recém-criados agora pertencem a você.
