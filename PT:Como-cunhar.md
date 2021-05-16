@@ -3,7 +3,6 @@
 ## cunhar
 _Traduzimos o termo mint para cunhar, pois é a palavra que mais se assemelha ao que fazemos ao publicar uma obra NFT: Associamos essa obra a um NFT, e consequentemente esse NFT poderá ser associado a alguma moeda._
 
-## mint (cunhar)
 1: (substantivo) qualquer uma de uma família de plantas aromáticas com uma haste quadrada e um ovário de 4 lóbulos que produz quatro pequenas nozes de uma semente na fruta
 
 2: (verbo) para criar um OBJKT (NFT)
