@@ -14,7 +14,7 @@ Bem-vindo ao guia de criação de hicetnunc! Aqui você aprenderá como cunhar s
 Continue em [Iniciando com Tezos](https://github.com/hicetnunc2000/hicetnunc/wiki/PT:Getting-Started-with-Tezos) para aprender como adquirir alguns tezos!
 
 Já tem tezos?
-Continue em [Como cunhar 🌿](https://github.com/hicetnunc2000/hicetnunc/wiki/PT:How-to-mint) para criar seu primeiro OBJKT!
+Continue em [Como cunhar 🌿](https://github.com/hicetnunc2000/hicetnunc/wiki/PT:Como-cunhar) para criar seu primeiro OBJKT!
 
 ***
 
