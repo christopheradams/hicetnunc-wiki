@@ -1,8 +1,9 @@
 Traduzimos a palavra swap por trocar, no seu sentido literal. Ao fazer swap(troca) no Hic Et Nunc, um anúncio com preço será feito, possibilitando assim que algum interessado possa trocar seu NFT por uma certa quantia em criptomoedas.
 
-#Como Trocar🔃
+# Como Trocar🔃
 
-Trocar
+## Trocar
+
 1: (verbo) entregar em troca; permutar.
 
 2: (verbo) definir um preço para o seu OBJKT
