@@ -1,5 +1,20 @@
 `hDAO address KT1AFA2mwNUMNd4SsujE1YYp29vd8BZejyKW token id 0`
 
+## What is hDAO?
+
+○ hDAO is a media governance token. They are distributed through NFTs, composing a curated feed. NFTs, tags, galleries are intended to be organized based on hDAO balances. It's purpose is to create a circular economy.
+
+## How do I earn hDAO?
+From Hicetnunc's launch (March 1) to mid-April, when you bought an NFT, say for 1ꜩ, you earned 0.5 hDAO, and the seller would also earn 0.5 hDAO. Now that distribution is over, you can only buy hDAO. Continue reading for how to buy hDAO.
+
+### Utility
+* OBJKT (nft) upvoting
+* Hicetnunc governance
+* Involutive token economics
+
+_*as of the 15th of May_
+
+**implementation ongoing**
 
 ![hDAO overview by Leonard Schoelch](https://i.ibb.co/LRwNDKh/E0-IYE-1-XEAAdhv-S.jpg)
 
@@ -11,22 +26,6 @@ _hDAO overview by Leonard Schoelch_
 * Token of hicetnunc.xyz (~20k xtz 24h volume)
 * ~$16 million market cap
 * Largest holder <3% of total supply*
-
-### Utility
-* OBJKT (nft) upvoting
-* Hicetnunc governance
-* Potentially dividends
-
-_*as of the 29th of April_
-
-**implementation ongoing**
-
-## What is hDAO?
-
-○ hDAO is a media governance token. They are distributed through NFTs, composing a curated feed. NFTs, tags, galleries are intended to be organized based on hDAO balances. It's purpose is to create a circular economy.
-
-## How do I earn hDAO?
-From Hicetnunc's launch (March 1) to mid-April, when you bought an NFT, say for 1ꜩ, you earned 0.5 hDAO, and the seller would also earn 0.5 hDAO. Now that distribution is over, you can only buy hDAO. Continue reading for how to buy hDAO.
 
 ## Where can I buy hDAO?
 Generally you can use [Quipuswap](https://quipuswap.com/swap). Heres a guide for how to buy with Temple Wallet:
