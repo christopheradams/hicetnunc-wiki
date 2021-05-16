@@ -7,6 +7,8 @@ Trocar
 
 2: (verbo) definir um preço para o seu OBJKT
 
+***
+
 Clique no link do seu OBJKT para ver os detalhes. Se você ainda estiver sincronizado com sua carteira, deverá ver “Swap” ao lado de “info”(informações) e “collectors”(proprietários). (Se você não ver essas opções, será necessário sincronizar sua carteira novamente.)
 Clique em trocar
 Insira quantos OBJKTs de sua edição você deseja colocar à venda. Por exemplo, se você tiver 10 e quiser manter 1 e vender 9, insira 9. Se quiser vender todos, insira 10.
