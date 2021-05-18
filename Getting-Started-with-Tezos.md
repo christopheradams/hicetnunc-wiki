@@ -18,8 +18,7 @@ Please fill out this google form:
 * After filling out the form, please send us a message in the #tezos-fountain channel on the Discord saying that you filled out the form.
 
 ### ⛲ Volunteering as a Sponsor
-The #tezos-fountain in the Discord is open to the community and if you are willing to sponsor an artist you can volunteer to send them some tez. If you volunteer to sponsor someone, please put a 100% emoji on their post so we know they have been sponsored. We recommend sending 0.33333 tez. You can also send them the tzkt.io transaction as a confirmation.
-💯💯💯💯
+If you make some sales and would like to support other new artists you can send XTZ donations to `tz1eggoxCes1qYRGLc3E1bg4uzuCUUuuQBb9`
 
 **Common wallet errors**
 ![account doesnt exist error from tzkt.io](https://imgshare.io/images/2021/05/15/account_doesnt_exist.png)
@@ -29,7 +28,9 @@ _Pro tip: If your account on tzkt.io shows this, don't worry. It just means you 
 ![Prevalidation error in the temple wallet](https://imgshare.io/images/2021/05/15/pre_validation_error.png)
 
 _Pro tip: This means you should refresh the page. Just give it a couple of seconds for the transaction to go through and you will get the "applied" status._
+
 ***
+
 Already have tezos? 
 
 Continue to [How to mint 🌿](https://github.com/hicetnunc2000/hicetnunc/wiki/How-to-mint-🌿) to create your first OBJKT!
