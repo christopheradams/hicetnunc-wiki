@@ -1,7 +1,5 @@
 ## Discovery Tools
 
-* [OBJKT transaction history](https://hicetnunc.xyz/objkt/46415) by Javier Garciá Carpio
-
 * [Discovery Tool](https://projects.stroep.nl/hicetnunc/#discover) by Mark Knol
 
 * [Filter by tags](https://projects.stroep.nl/hicetnunc/#tags) by Mark Knol
@@ -12,7 +10,7 @@
 
 * [here-or-there.glitch.me](https://here-or-there.glitch.me/) by Quasimondo
 
-* [Sort OBJKTs by price tiers](https://hicetnunc.miketyka.com) by Mike Tyka
+* [Discover OBJKTs by price tiers](https://hicetnunc.miketyka.com) by Mike Tyka
 
 * [Objkts explorer: Stats and RT feeds from hicetnunc's contract](https://objkts.xyz/) by @branksypop
 
@@ -44,6 +42,10 @@ The following services provide shortlinks to hicetnunc creation pages:
 
 ## Selling Tools
 * [Telegram Notifier Bot](https://tzsnt.fr/): Get a telegram message every time someone buys something.
+
+* [Audit tool](https://hicetnunc.miketyka.com/audit) Audit your creations and collection, see transaction histories.
+
+* [OBJKT transaction history](https://hicetnunc.xyz/objkt/46415) by Javier Garciá Carpio
 
 * [HICTORY](https://hictory.glitch.me/#tz2HwP1JKEjEy4H8RxPMkoHWuSzUWZsRSC3R) by [Leith Ben Abdessalem](https://twitter.com/LeithBA): An easy to read transaction history.
 
