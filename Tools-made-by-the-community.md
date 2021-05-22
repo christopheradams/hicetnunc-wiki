@@ -68,3 +68,5 @@ This can be combined with Hic et Nunc API CDK to fetch and generate thumbs from 
 * [Naive status page for hicetnunc.xyz](https://hicetnuncstatus.herokuapp.com/) by @fraguada @LeithBA [github](https://github.com/fraguada/hicetnuncstatus)
 
 * [https://batch.xtz.tools/](https://batch.xtz.tools) An FA2 token batch sender! 🥳 Makes it a lot easier to send lots of tokens to many people at once - no more waiting for your wallet to confirm transactions one by one! by [@purespider] (https://twitter.com/PureSpider/status/1391784668601651200?s=19) With this tool people could do freebie giveaways by collecting people's addresses and then batch-send OBJKTS.
+
+* [https://tzcomet.io/#/token/KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton/6291%3Falways-show-multimedia%3Dtrue](TZcomet Token viewer) a tool to view all metadata and media data of OBJKTs (even banned ones). Simply paste the OBJKTs ID on top right and press Go.
