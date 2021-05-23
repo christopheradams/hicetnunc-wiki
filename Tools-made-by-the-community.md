@@ -1,5 +1,7 @@
 ## Discovery Tools
 
+* [hicetnunc.tools](https://hicetnunc.tools) An unofficial list of community hicetnunc projects
+
 * [Discovery Tool](https://projects.stroep.nl/hicetnunc/#discover) by Mark Knol
 
 * [Filter by tags](https://projects.stroep.nl/hicetnunc/#tags) by Mark Knol
