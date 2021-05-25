@@ -22,7 +22,11 @@ You may acquire hDAO through tips (withdrawal coming soon!) or by purchasing it 
 This was implemented to combat copyminters and shouldn't affect regular users.
 
 ## What is this 2.5% fee?
-The fee means that when your OBJKT sells, Hicetnunc will charge 2.5% of the sale. It is used to maintain the server. We suggest factoring this into your sell price to cover the costs.
+Hicetnunc charges a 2.5% maintenance fee on all sales on the platform at the point of sale. The fee is paid by the buyer and deducted from the list price. You should factor this in when setting your prices. Free OBJKTs do not incur a maintenance fee.
+
+For example, if the price of a work is 10 tez, and royalties are 10%, then at the point of sale, 0.25 tez is paid to the platform in fees, 1 tez is paid to the creator in royalties, and 8.75 tez is paid to the seller of the work.
+
+The fees are calculated automatically by the [Hic et nunc Minter](https://tzkt.io/KT1Hkg5qeNhfwpKW4fXvq7HGZB9z2EnmCCA9/operations/) smart contract ([read the source code](https://github.com/hicetnunc2000/objkt-swap)) and paid out to the [hicetnunc2000lab](https://tzkt.io/tz1UBZUkXpKGhYsP5KtzDNqLLchwF4uHrGjw/operations/) wallet. A portion of the collected fees are withdrawn to support operational and development costs of the platform. The remainder is delegated to [a baker](https://tzkt.io/tz1S5WxdZR5f9NzsPXhr7L9L1vrEb5spZFur/delegators).
 
 ## How to avoid copyminters
 Unfortunately, there are people minting NFTs who did not create what they upload. These copyminters, as we call them, try to make a quick buck with art from other people. Collectors have to very careful and try to find out who the artists are and if the art is genuine.
